@@ -66,11 +66,11 @@ while True:
 
 Client
 
-![ex3cclient](https://github.com/ikeerthivasanswaminathan/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148937372/4400bfb7-f738-43a6-bdff-656e665c4fa4)
+![ex3cclient (new)](https://github.com/ikeerthivasanswaminathan/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148937372/17ab0236-969c-4c07-be83-bf1b1b8c17c8)
 
 Server
 
-![ex3cserver](https://github.com/ikeerthivasanswaminathan/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148937372/ef23891b-5e08-4172-be72-02ef21438f47)
+![ex3cserver (new)](https://github.com/ikeerthivasanswaminathan/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/148937372/b7d23102-ca2c-4088-8859-18debe98fa04)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was successfully created and executed.
